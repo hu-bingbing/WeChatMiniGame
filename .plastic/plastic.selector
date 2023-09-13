@@ -1,0 +1,4 @@
+repository "MiniGame@wechat_os_qy08pehjys9e93vao2rsl7vke@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
